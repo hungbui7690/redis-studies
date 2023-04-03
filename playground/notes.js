@@ -1,7 +1,10 @@
 /*
 
   > docker-compose up --build -d --remove-orphans
-  > http://localhost:3050
+  > npx rbook
+    + http://localhost:3050 > rbook link
+
+
 
 
   - Start
